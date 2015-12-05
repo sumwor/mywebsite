@@ -16,7 +16,7 @@ baseurl: /mywebsite
 
 # Google tracking id to track your visitors
 
-#google-tracking-id: "UA-35880426-4"
+#google-tracking-id: "UA-35880426-4"    I will enable this later
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -28,11 +28,11 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+#lang: ""
+author: "summerworm"
+title: "夏蟲"
+description: ""    #what will appear in search engine
+keywords: ""
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -55,6 +55,7 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
+#auto: true
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
@@ -87,13 +88,11 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#google-plus-share: True
+#tumblr-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
 disqus-shortname: "panossakkos"
 
@@ -119,7 +118,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "summerworm@outlook.com"
 
 ##################
 # Social Buttons #
@@ -131,11 +130,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/sumwor/mysite"
 
 ############
 # 404 page #
