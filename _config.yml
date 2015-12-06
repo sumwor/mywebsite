@@ -57,8 +57,8 @@ start-delay: 200
 delete-delay: 5000
 #auto: true
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "诗思在灞陵桥上，微吟就，林岫便已浩然；野兴在镜湖曲边，独往时，山川自相映发。"
+#  - text: ""
 
 me-img: "/img/jetpacktocat.png"
 
@@ -103,11 +103,11 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+#  - image: "/img/timeline/spidertocat.png"
+#    date: "September 2013 - Today"
+#    description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
+    date: "September 2013"
     description: "Started coding"
 
 # First image of the Timeline
