@@ -7,16 +7,35 @@
 		<atom:link href="https://sumwor.github.io/mywebsite/mywebsite/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>welcome</title>
+				<title>布袍宽</title>
 				
 				
-					<description>&lt;p&gt;Click the view more posts link bellow, to see the currently available post-tutorials to help you get your { Personal } website up and running quicker!&lt;/p&gt;
+					<description>&lt;blockquote&gt;
+  &lt;p&gt;蘿襟蕙帶竹皮中，雖到塵中不染塵。
+每見熟人多惨澹，惟逢美酒即殷勤。
+浮雲心事谁能會，老鹤風標不可親。
+世說三生如不謬，共疑巢许是前身。
+————白居易《贈張處士山人》&lt;/p&gt;
+&lt;/blockquote&gt;
 
 </description>
 				
-				<pubDate>Sat, 05 Dec 2015 00:00:00 -0800</pubDate>
-				<link>https://sumwor.github.io/mywebsite/mywebsite/tech/2015/12/05/welcome.html</link>
-				<guid isPermaLink="true">https://sumwor.github.io/mywebsite/mywebsite/tech/2015/12/05/welcome.html</guid>
+				<pubDate>Fri, 18 Dec 2015 00:00:00 +0800</pubDate>
+				<link>https://sumwor.github.io/mywebsite/mywebsite/2015/12/18/%E5%B8%83%E8%A2%8D%E5%AE%BD.html</link>
+				<guid isPermaLink="true">https://sumwor.github.io/mywebsite/mywebsite/2015/12/18/%E5%B8%83%E8%A2%8D%E5%AE%BD.html</guid>
+			</item>
+		
+			<item>
+				<title>一夕渔樵话</title>
+				
+				
+					<description>&lt;p&gt;自羲农，至黄帝。号三皇，在上世。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 18 Dec 2015 00:00:00 +0800</pubDate>
+				<link>https://sumwor.github.io/mywebsite/mywebsite/2015/12/18/%E4%B8%80%E5%A4%95%E6%B8%94%E6%A8%B5%E8%AF%9D.html</link>
+				<guid isPermaLink="true">https://sumwor.github.io/mywebsite/mywebsite/2015/12/18/%E4%B8%80%E5%A4%95%E6%B8%94%E6%A8%B5%E8%AF%9D.html</guid>
 			</item>
 		
 	</channel>
